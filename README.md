@@ -1,4 +1,4 @@
-# Usage
+# usage
 python ptafrecon.py <url>
 
 python ptafrecon.py <url> safe
