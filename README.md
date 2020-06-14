@@ -1,2 +1,2 @@
 # sample output
-(https://github.com/supereldar/ptafrecon/blob/master/1.jpg?raw=true)
+![alt text](https://github.com/supereldar/ptafrecon/blob/master/1.jpg?raw=true)
